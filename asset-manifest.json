@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/octocat.github.io/static/css/main.7ca1dbfa.css",
+    "main.js": "/octocat.github.io/static/js/main.623ace89.js",
+    "index.html": "/octocat.github.io/index.html",
+    "main.7ca1dbfa.css.map": "/octocat.github.io/static/css/main.7ca1dbfa.css.map",
+    "main.623ace89.js.map": "/octocat.github.io/static/js/main.623ace89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca1dbfa.css",
+    "static/js/main.623ace89.js"
+  ]
+}
