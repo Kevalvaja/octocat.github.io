@@ -52,7 +52,7 @@ function App() {
           <label className="input">
             <input type="search" name='git_username' className="grow" placeholder="Enter Git-hub Username" onChange={formik?.handleChange} onBlur={formik?.handleBlur} />
           </label>
-          <button className="btn btn-primary mx-2" onClick={formik?.handleSubmit}>Search</button>
+          <button className="btn btn-primary mx-2 my-2 sm:text-center" onClick={formik?.handleSubmit}>Search</button>
           {formik?.errors?.git_username && formik?.touched?.git_username &&
             <div className='text-sm text-red-500'>{formik?.errors?.git_username}</div>
           }
